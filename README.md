@@ -169,23 +169,13 @@ tempel.html:
 
 
 ## OUTPUT
-index.html:
-![maps](maps.jpg)
 
-college.html:
-![college.html](college.jpg)
-
-convectionhall.html:
-![convectionhall.html](convectionhall.jpg)
-
-home.html
-![home.html](home.jpg)
-
-tabunhotel.html:
-![tabunhotel.html](tabunhotel.jpg)
-tempel.html:
-![tempel.html](Temple.jpg)
-
+![image](https://github.com/user-attachments/assets/84564ce2-354a-4c61-864d-30853edf3a7b)
+![college](https://github.com/user-attachments/assets/0ad71781-0a09-49d0-a9c0-c5a2b36ebb9e)
+![image](https://github.com/user-attachments/assets/728fd20d-7b44-4123-a294-5b9e648627f7)
+![image](https://github.com/user-attachments/assets/64373908-237a-4a3a-aba5-d20d3b5bad30)
+![image](https://github.com/user-attachments/assets/f22e5ada-6250-4d34-998e-bff7bf73f55e)
+![image](https://github.com/user-attachments/assets/e57ea8e4-ceda-4103-951c-ad8a71a43393)
 
 
 
